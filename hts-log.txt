@@ -1,0 +1,11 @@
+HTTrack3.49-2 launched on Sat, 01 Aug 2020 23:32:05 at https://www.google.com/amp/s/seputartangsel.pikiran-rakyat.com/nasional/amp/pr-14644461/mau-disembelih-sapi-presiden-jokowi-kabur-ke-belakang-rumah-bupati-kulon-progo
+(winhttrack https://www.google.com/amp/s/seputartangsel.pikiran-rakyat.com/nasional/amp/pr-14644461/mau-disembelih-sapi-presiden-jokowi-kabur-ke-belakang-rumah-bupati-kulon-progo -O "/data/data/com.termux/files/home/storage/shared/website/danil" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 seconds : 3 links scanned, 2 files written (157194 bytes overall) [29569 bytes received at 3696 bytes/sec], 157194 bytes transferred using HTTP compression in 2 files, ratio 16%, 1.3 requests per connection
+(No errors, 0 warnings, 0 messages)
